@@ -1,6 +1,11 @@
 {
-  "clinic": "Clinic_edmc",
-  "valid": true,
+  "clinic_code": "clinic_edmc",
+  "license_id": "LIC-CLINIC-EDMC-0005",
+  "issued": "2026-07-01",
   "expiry": "2027-07-01",
-  "message": "Licence active"
+  "message": "Licence active",
+  "metadata": {
+    "issued_by": "Francis Pham",
+    "contact": "francis.pham.au@gmail.com"
+  }
 }
